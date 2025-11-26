@@ -1,165 +1,165 @@
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e15ef2d153.png--Mevsimlerin Oluşumu--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/89714a73a5.png--Mevsimlerin Oluşumu--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cbc3a29e8d.jpeg--Mevsimlerin Oluşumu--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/80a6815322.png--Mevsimlerin Oluşumu--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a7fc056db.png--Mevsimlerin Oluşumu--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e18ea1fe55.png--Mevsimlerin Oluşumu--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8ae0732cdc.png--Mevsimlerin Oluşumu--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1503d808d3.png--Mevsimlerin Oluşumu--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2a1b1f0161.png--Mevsimlerin Oluşumu--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/464ab137b2.png--Mevsimlerin Oluşumu--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d6eeffbbd5.png--Mevsimlerin Oluşumu--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a277d4764c.png--Mevsimlerin Oluşumu--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4e1ad7a383.png--İklim ve Hava Hareketleri--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/79483529c5.png--İklim ve Hava Hareketleri--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1666f4405a.png--İklim ve Hava Hareketleri--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/15cd206e56.png--İklim ve Hava Hareketleri--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/491365db30.png--İklim ve Hava Hareketleri--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9bed9b1e9b.png--İklim ve Hava Hareketleri--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/bdf62c3fa8.png--İklim ve Hava Hareketleri--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a6773544f7.png--İklim ve Hava Hareketleri--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/801560371b.png--İklim ve Hava Hareketleri--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/23608d9080.png--İklim ve Hava Hareketleri--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1f837e45c4.png--DNA ve Genetik Kod--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73585a80ba.png--DNA ve Genetik Kod--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/547d349388.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/17d1c03caf.png--DNA ve Genetik Kod--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/83abb25e4b.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/da0ce7f6e7.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ea437dd064.png--DNA ve Genetik Kod--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73b5606bcd.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e3ddb4e238.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/622722b2f2.png--DNA ve Genetik Kod--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/14d56b59ec.png--DNA ve Genetik Kod--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/df47525380.png--DNA ve Genetik Kod--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ef1b6446d8.png--DNA ve Genetik Kod--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf0f56f7aa.png--Kalıtım--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4173bb4a0c.png--Kalıtım--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4a5c32644a.png--Kalıtım--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/75d903734d.png--Kalıtım--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1b34157b5c.png--Kalıtım--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ed52a5f1be.png--Kalıtım--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f9a00cb361.png--Kalıtım--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0e76115aa9.png--Kalıtım--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ae2b8be869.png--Kalıtım--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4db6743114.png--Kalıtım--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf9f9a9f2b.png--Kalıtım--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/657fa17f28.png--Kalıtım--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0fce19079d.png--Kalıtım--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/132123a3d6.png--Mutasyon ve Modifikasyon--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73766dea48.png--Mutasyon ve Modifikasyon--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/142214e4e8.png--Mutasyon ve Modifikasyon--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e2d8602f4e.png--Mutasyon ve Modifikasyon--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de3f3d3d00.png--Mutasyon ve Modifikasyon--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3f51d37f72.png--Mutasyon ve Modifikasyon--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/71036c0f9f.png--Mutasyon ve Modifikasyon--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/bd147bf605.png--Mutasyon ve Modifikasyon--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b5cb6310d5.png--Mutasyon ve Modifikasyon--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/dc148c6f62.png--Mutasyon ve Modifikasyon--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ef62abedec.png--Adaptasyon (Çevreye Uyum)--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/282d326e15.png--Adaptasyon (Çevreye Uyum)--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d131f53ab9.png--Adaptasyon (Çevreye Uyum)--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7f4e032d73.png--Adaptasyon (Çevreye Uyum)--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f7f386eb41.png--Adaptasyon (Çevreye Uyum)--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d0c41b0a30.png--Adaptasyon (Çevreye Uyum)--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ff40b7171e.png--Adaptasyon (Çevreye Uyum)--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/92ef50c0ed.png--Biyoteknoloji--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a0077e282.png--Biyoteknoloji--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a0077e282.png--Biyoteknoloji--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/79cbcd5dde.png--Biyoteknoloji--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/571988ad8b.png--Biyoteknoloji--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/866fb47619.png--Biyoteknoloji--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8e985cc87c.png--Biyoteknoloji--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c3317aabcc.png--Biyoteknoloji--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e4bc5e5dd8.png--Basınç--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f19bbdc62f.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2ca09cfbe7.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c816708648.png--Basınç--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/12c2a3ac9a.png--Basınç--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8b6d6dcf78.png--Basınç--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/622335c451.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f41fcfbb98.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b8bba6f8bc.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/893a4af91c.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/06d394b859.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1094f839de.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/995a7b13de.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0a98f05c21.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3779cf9c0d.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ebfb9085b9.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ea2a2b2703.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de4fa6b563.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c97aeddadd.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/426eb5708a.png--Basınç--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8cf9ddd6d1.png--Basınç--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0d9bdf4850.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e88b82ff51.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3be5fb4abe.png--Basınç--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4b5e2b9a17.png--Basınç--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/61a017d020.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d233cb24c8.png--Periyodik Sistem--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/777a1a76bc.png--Periyodik Sistem--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d3d1a133d5.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/38e145e7b5.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3b504dacc2.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/fec0a4f1a5.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5f9031ac70.png--Periyodik Sistem--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d301ad809f.png--Periyodik Sistem--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ae52bb5d7e.png--Periyodik Sistem--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6a781e1278.png--Periyodik Sistem--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/181c32f987.png--Periyodik Sistem--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3584bf74c6.png--Periyodik Sistem--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6576ce9873.png--Fiziksel ve Kimyasal Değişimler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9eff0d69d0.jpeg--Fiziksel ve Kimyasal Değişimler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/32625ab322.png--Fiziksel ve Kimyasal Değişimler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c0cd256cf6.png--Fiziksel ve Kimyasal Değişimler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5142ca0fc5.png--Fiziksel ve Kimyasal Değişimler--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9c0d62289c.png--Fiziksel ve Kimyasal Değişimler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/742b355ffe.png--Fiziksel ve Kimyasal Değişimler--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d0d88f3b74.png--Fiziksel ve Kimyasal Değişimler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f8002ae766.png--Fiziksel ve Kimyasal Değişimler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c25115618d.png--Kimyasal Tepkimeler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8b6338b2ed.png--Kimyasal Tepkimeler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/abfca218cd.png--Kimyasal Tepkimeler--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e37f788f7c.png--Kimyasal Tepkimeler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2e8b075de0.png--Kimyasal Tepkimeler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/09d61f2429.png--Kimyasal Tepkimeler--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/fe91fdbfe8.png--Kimyasal Tepkimeler--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6f33d06d89.png--Kimyasal Tepkimeler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0f80894ebc.png--Kimyasal Tepkimeler--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/669be9e42f.png--Kimyasal Tepkimeler--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f37dca6e05.png--Kimyasal Tepkimeler--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3f922149e6.png--Asitler ve Bazlar--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/96468ce530.png--Asitler ve Bazlar--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2b890872f8.png--Asitler ve Bazlar--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7d19da3772.png--Asitler ve Bazlar--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f12127a5f1.png--Asitler ve Bazlar--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/21fb8c6929.png--Asitler ve Bazlar--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0c9409af7b.png--Asitler ve Bazlar--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f28cde49a4.png--Asitler ve Bazlar--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/84b9fea357.png--Asitler ve Bazlar--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3220a2af82.png--Asitler ve Bazlar--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/07246a17ba.png--Asitler ve Bazlar--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/166aea9e18.png--Asitler ve Bazlar--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9811d8eb59.png--Asitler ve Bazlar--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf3f1dffac.png--Maddenin Isı ile Etkileşimi--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/843dc8615c.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/950c714783.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b4a4dec219.png--Maddenin Isı ile Etkileşimi--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/92778325e4.png--Maddenin Isı ile Etkileşimi--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f7efdd6df5.png--Maddenin Isı ile Etkileşimi--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/da91ff7434.png--Maddenin Isı ile Etkileşimi--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2d0ecd4db2.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8161c44f5b.png--Maddenin Isı ile Etkileşimi--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/078f270e0a.png--Maddenin Isı ile Etkileşimi--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5ba21c2dcd.png--Maddenin Isı ile Etkileşimi--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/24e10d9791.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b7a2f2168d.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/384da0989b.png--Maddenin Isı ile Etkileşimi--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ff19c6c2eb.png--Maddenin Isı ile Etkileşimi--B--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de56de43c3.png--Maddenin Isı ile Etkileşimi--C--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a880d7958c.png--Maddenin Isı ile Etkileşimi--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a880d7958c.png--Maddenin Isı ile Etkileşimi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/83c5b2254c.png--Türkiye’de Kimya Endüstrisi--A--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b2e93675b9.png--Türkiye’de Kimya Endüstrisi--D--false
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/85d20e0d70.png--Türkiye’de Kimya Endüstrisi--B--false
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e15ef2d153.png--Mevsimlerin Oluşumu--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/89714a73a5.png--Mevsimlerin Oluşumu--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cbc3a29e8d.jpeg--Mevsimlerin Oluşumu--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/80a6815322.png--Mevsimlerin Oluşumu--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a7fc056db.png--Mevsimlerin Oluşumu--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e18ea1fe55.png--Mevsimlerin Oluşumu--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8ae0732cdc.png--Mevsimlerin Oluşumu--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1503d808d3.png--Mevsimlerin Oluşumu--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2a1b1f0161.png--Mevsimlerin Oluşumu--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/464ab137b2.png--Mevsimlerin Oluşumu--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d6eeffbbd5.png--Mevsimlerin Oluşumu--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a277d4764c.png--Mevsimlerin Oluşumu--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4e1ad7a383.png--İklim ve Hava Hareketleri--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/79483529c5.png--İklim ve Hava Hareketleri--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1666f4405a.png--İklim ve Hava Hareketleri--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/15cd206e56.png--İklim ve Hava Hareketleri--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/491365db30.png--İklim ve Hava Hareketleri--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9bed9b1e9b.png--İklim ve Hava Hareketleri--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/bdf62c3fa8.png--İklim ve Hava Hareketleri--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a6773544f7.png--İklim ve Hava Hareketleri--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/801560371b.png--İklim ve Hava Hareketleri--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/23608d9080.png--İklim ve Hava Hareketleri--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1f837e45c4.png--DNA ve Genetik Kod--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73585a80ba.png--DNA ve Genetik Kod--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/547d349388.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/17d1c03caf.png--DNA ve Genetik Kod--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/83abb25e4b.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/da0ce7f6e7.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ea437dd064.png--DNA ve Genetik Kod--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73b5606bcd.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e3ddb4e238.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/622722b2f2.png--DNA ve Genetik Kod--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/14d56b59ec.png--DNA ve Genetik Kod--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/df47525380.png--DNA ve Genetik Kod--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ef1b6446d8.png--DNA ve Genetik Kod--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf0f56f7aa.png--Kalıtım--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4173bb4a0c.png--Kalıtım--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4a5c32644a.png--Kalıtım--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/75d903734d.png--Kalıtım--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1b34157b5c.png--Kalıtım--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ed52a5f1be.png--Kalıtım--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f9a00cb361.png--Kalıtım--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0e76115aa9.png--Kalıtım--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ae2b8be869.png--Kalıtım--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4db6743114.png--Kalıtım--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf9f9a9f2b.png--Kalıtım--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/657fa17f28.png--Kalıtım--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0fce19079d.png--Kalıtım--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/132123a3d6.png--Mutasyon ve Modifikasyon--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/73766dea48.png--Mutasyon ve Modifikasyon--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/142214e4e8.png--Mutasyon ve Modifikasyon--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e2d8602f4e.png--Mutasyon ve Modifikasyon--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de3f3d3d00.png--Mutasyon ve Modifikasyon--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3f51d37f72.png--Mutasyon ve Modifikasyon--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/71036c0f9f.png--Mutasyon ve Modifikasyon--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/bd147bf605.png--Mutasyon ve Modifikasyon--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b5cb6310d5.png--Mutasyon ve Modifikasyon--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/dc148c6f62.png--Mutasyon ve Modifikasyon--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ef62abedec.png--Adaptasyon (Çevreye Uyum)--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/282d326e15.png--Adaptasyon (Çevreye Uyum)--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d131f53ab9.png--Adaptasyon (Çevreye Uyum)--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7f4e032d73.png--Adaptasyon (Çevreye Uyum)--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f7f386eb41.png--Adaptasyon (Çevreye Uyum)--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d0c41b0a30.png--Adaptasyon (Çevreye Uyum)--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ff40b7171e.png--Adaptasyon (Çevreye Uyum)--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/92ef50c0ed.png--Biyoteknoloji--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a0077e282.png--Biyoteknoloji--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7a0077e282.png--Biyoteknoloji--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/79cbcd5dde.png--Biyoteknoloji--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/571988ad8b.png--Biyoteknoloji--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/866fb47619.png--Biyoteknoloji--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8e985cc87c.png--Biyoteknoloji--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c3317aabcc.png--Biyoteknoloji--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e4bc5e5dd8.png--Basınç--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f19bbdc62f.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2ca09cfbe7.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c816708648.png--Basınç--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/12c2a3ac9a.png--Basınç--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8b6d6dcf78.png--Basınç--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/622335c451.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f41fcfbb98.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b8bba6f8bc.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/893a4af91c.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/06d394b859.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1094f839de.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/995a7b13de.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0a98f05c21.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3779cf9c0d.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ebfb9085b9.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ea2a2b2703.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de4fa6b563.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c97aeddadd.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/426eb5708a.png--Basınç--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8cf9ddd6d1.png--Basınç--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0d9bdf4850.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e88b82ff51.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3be5fb4abe.png--Basınç--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4b5e2b9a17.png--Basınç--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/61a017d020.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d233cb24c8.png--Periyodik Sistem--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/777a1a76bc.png--Periyodik Sistem--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d3d1a133d5.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/38e145e7b5.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3b504dacc2.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/fec0a4f1a5.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5f9031ac70.png--Periyodik Sistem--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d301ad809f.png--Periyodik Sistem--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ae52bb5d7e.png--Periyodik Sistem--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6a781e1278.png--Periyodik Sistem--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/181c32f987.png--Periyodik Sistem--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3584bf74c6.png--Periyodik Sistem--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6576ce9873.png--Fiziksel ve Kimyasal Değişimler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9eff0d69d0.jpeg--Fiziksel ve Kimyasal Değişimler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/32625ab322.png--Fiziksel ve Kimyasal Değişimler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c0cd256cf6.png--Fiziksel ve Kimyasal Değişimler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5142ca0fc5.png--Fiziksel ve Kimyasal Değişimler--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9c0d62289c.png--Fiziksel ve Kimyasal Değişimler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/742b355ffe.png--Fiziksel ve Kimyasal Değişimler--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d0d88f3b74.png--Fiziksel ve Kimyasal Değişimler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f8002ae766.png--Fiziksel ve Kimyasal Değişimler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c25115618d.png--Kimyasal Tepkimeler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8b6338b2ed.png--Kimyasal Tepkimeler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/abfca218cd.png--Kimyasal Tepkimeler--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/e37f788f7c.png--Kimyasal Tepkimeler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2e8b075de0.png--Kimyasal Tepkimeler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/09d61f2429.png--Kimyasal Tepkimeler--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/fe91fdbfe8.png--Kimyasal Tepkimeler--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6f33d06d89.png--Kimyasal Tepkimeler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0f80894ebc.png--Kimyasal Tepkimeler--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/669be9e42f.png--Kimyasal Tepkimeler--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f37dca6e05.png--Kimyasal Tepkimeler--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3f922149e6.png--Asitler ve Bazlar--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/96468ce530.png--Asitler ve Bazlar--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2b890872f8.png--Asitler ve Bazlar--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/7d19da3772.png--Asitler ve Bazlar--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f12127a5f1.png--Asitler ve Bazlar--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/21fb8c6929.png--Asitler ve Bazlar--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0c9409af7b.png--Asitler ve Bazlar--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f28cde49a4.png--Asitler ve Bazlar--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/84b9fea357.png--Asitler ve Bazlar--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3220a2af82.png--Asitler ve Bazlar--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/07246a17ba.png--Asitler ve Bazlar--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/166aea9e18.png--Asitler ve Bazlar--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/9811d8eb59.png--Asitler ve Bazlar--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/cf3f1dffac.png--Maddenin Isı ile Etkileşimi--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/843dc8615c.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/950c714783.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b4a4dec219.png--Maddenin Isı ile Etkileşimi--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/92778325e4.png--Maddenin Isı ile Etkileşimi--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f7efdd6df5.png--Maddenin Isı ile Etkileşimi--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/da91ff7434.png--Maddenin Isı ile Etkileşimi--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2d0ecd4db2.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8161c44f5b.png--Maddenin Isı ile Etkileşimi--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/078f270e0a.png--Maddenin Isı ile Etkileşimi--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/5ba21c2dcd.png--Maddenin Isı ile Etkileşimi--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/24e10d9791.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b7a2f2168d.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/384da0989b.png--Maddenin Isı ile Etkileşimi--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ff19c6c2eb.png--Maddenin Isı ile Etkileşimi--B
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/de56de43c3.png--Maddenin Isı ile Etkileşimi--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a880d7958c.png--Maddenin Isı ile Etkileşimi--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a880d7958c.png--Maddenin Isı ile Etkileşimi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/83c5b2254c.png--Türkiye’de Kimya Endüstrisi--A
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b2e93675b9.png--Türkiye’de Kimya Endüstrisi--D
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/85d20e0d70.png--Türkiye’de Kimya Endüstrisi--B
