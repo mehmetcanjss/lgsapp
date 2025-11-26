@@ -1,7 +1,6 @@
-https://ogm-large-cdn.eba.gov.tr/mebi/video/b57e31151b.mp4--Çarpanlar ve Katlar
-https://ogm-large-cdn.eba.gov.tr/mebi/video/54dc225b88.mp4--Üslü İfadeler
-https://ogm-large-cdn.eba.gov.tr/mebi/video/7a98ae810b.mp4--Kareköklü İfadeler
-https://ogm-large-cdn.eba.gov.tr/mebi/video/ec1845f6c1.mp4--Veri Analizi
-https://ogm-large-cdn.eba.gov.tr/mebi/video/50434573ff.mp4--Olasılık
-https://ogm-large-cdn.eba.gov.tr/mebi/video/d885047722.mp4--Cebirsel İfadeler ve Özdeşlikler
-
+https://ogm-large-cdn.eba.gov.tr/mebi/video/b57e31151b.mp4--Çarpanlar ve Katlar--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/54dc225b88.mp4--Üslü İfadeler--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/7a98ae810b.mp4--Kareköklü İfadeler--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/ec1845f6c1.mp4--Veri Analizi--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/50434573ff.mp4--Olasılık--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/d885047722.mp4--Cebirsel İfadeler ve Özdeşlikler--true

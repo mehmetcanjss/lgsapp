@@ -1,10 +1,10 @@
-https://ogm-large-cdn.eba.gov.tr/mebi/video/f7f7efc9d7.mp4--Kader ve Kaza İnancı
-https://ogm-large-cdn.eba.gov.tr/mebi/video/12ef674bd9.mp4--İnsanın İradesi ve Kader
-https://ogm-large-cdn.eba.gov.tr/mebi/video/656c21f25c.mp4--Kaderle İlgili Kavramlar
-https://ogm-large-cdn.eba.gov.tr/mebi/video/45054a14d2.mp4--Bir Peygamber Tanıyorum: Hz. Musa
-https://ogm-large-cdn.eba.gov.tr/mebi/video/16540a5bea.mp4--Bir Ayet Tanıyorum: Ayetelkürsi ve Anlamı
-https://ogm-large-cdn.eba.gov.tr/mebi/video/4695cd72f7.mp4--İslam’ın Paylaşma ve Yardımlaşmaya Verdiği Önem
-https://ogm-large-cdn.eba.gov.tr/mebi/video/ac9f95f14f.mp4--Zekât ve Sadaka İbadeti
-https://ogm-large-cdn.eba.gov.tr/mebi/video/c34fc4b8d1.mp4--Zekât ve Sadakanın Bireysel ve Toplumsal Faydaları
-https://ogm-large-cdn.eba.gov.tr/mebi/video/43b68c5866.mp4--Bir Peygamber Tanıyorum: Hz. Şuayb
-https://ogm-large-cdn.eba.gov.tr/mebi/video/311e7abe93.mp4--Bir Sure Tanıyorum: Maun Suresi ve Anlamı
+https://ogm-large-cdn.eba.gov.tr/mebi/video/f7f7efc9d7.mp4--Kader ve Kaza İnancı--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/12ef674bd9.mp4--İnsanın İradesi ve Kader--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/656c21f25c.mp4--Kaderle İlgili Kavramlar--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/45054a14d2.mp4--Bir Peygamber Tanıyorum: Hz. Musa--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/16540a5bea.mp4--Bir Ayet Tanıyorum: Ayetelkürsi ve Anlamı--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/4695cd72f7.mp4--İslam’ın Paylaşma ve Yardımlaşmaya Verdiği Önem--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/ac9f95f14f.mp4--Zekât ve Sadaka İbadeti--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/c34fc4b8d1.mp4--Zekât ve Sadakanın Bireysel ve Toplumsal Faydaları--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/43b68c5866.mp4--Bir Peygamber Tanıyorum: Hz. Şuayb--true
+https://ogm-large-cdn.eba.gov.tr/mebi/video/311e7abe93.mp4--Bir Sure Tanıyorum: Maun Suresi ve Anlamı--true
