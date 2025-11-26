@@ -1,23 +1,23 @@
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d028e43335.png--Sözcükte Anlam--A
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8eeb7aa6dc.png--Sözcükte Anlam--D
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/be84d1234e.png--Sözcükte Anlam--A
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6e021265de.png--Sözcükte Anlam--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/44ab23b45b.png--Sözcükte Anlam--D
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/09bbb080f7.png--Sözcükte Anlam--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/115c4a620f.png--Sözcükte Anlam--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/134d9df719.png--Sözcükte Anlam--D
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/774df1832d.png--Sözcükte Anlam--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/74db223c2e.png--Sözcükte Anlam--D
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/84aad22684.png--Sözcükte Anlam--A
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/24221a628c.png--Sözcükte Anlam--A
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/465e713f09.png--Sözcükte Anlam--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0d7aa7adc6.png--Sözcükte Anlam--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ba1fae2b4e.png--Sözcükte Anlam--A
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0c4f13c716.png--Cümlede Anlam 1--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1aa58a5caa.png--Cümlede Anlam 1--C
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/d028e43335.png--Sözcükte Anlam--A--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8eeb7aa6dc.png--Sözcükte Anlam--D--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/be84d1234e.png--Sözcükte Anlam--A--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/6e021265de.png--Sözcükte Anlam--C--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/44ab23b45b.png--Sözcükte Anlam--D--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/09bbb080f7.png--Sözcükte Anlam--B--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/115c4a620f.png--Sözcükte Anlam--C--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/134d9df719.png--Sözcükte Anlam--D--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/774df1832d.png--Sözcükte Anlam--B--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/74db223c2e.png--Sözcükte Anlam--D--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/84aad22684.png--Sözcükte Anlam--A--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/24221a628c.png--Sözcükte Anlam--A--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/465e713f09.png--Sözcükte Anlam--C--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0d7aa7adc6.png--Sözcükte Anlam--B--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ba1fae2b4e.png--Sözcükte Anlam--A--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0c4f13c716.png--Cümlede Anlam 1--B--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--B--true
+https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1aa58a5caa.png--Cümlede Anlam 1--C--true
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2d329770dc.png--Cümlede Anlam 1--A
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/af94a4256c.png--Cümlede Anlam 1--D
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/68f63f4479.png--Cümlede Anlam 1--C
