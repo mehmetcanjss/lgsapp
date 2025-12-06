@@ -1,9 +1,10 @@
 {
-  "latest_version": "1.0.7",
+  "latest_version": "1.0.9",
   "update_url": "https://play.google.com/store/apps/details?id=com.altayindustries.lgs2026hazirlik",
-  "is_force_update": false,
+  "is_force_update": true,
   "changelog": [
-    "Reklamları kaldır özelliği eklendi! ayarlardan reklamları kaldırabilirsin.",
-    "Sıralama sistemi sayesinde artık arkadaşlarınla yarışabilirsin!"
+    "Uygulamada şu an bir güncelleme var güncelle butonu henüz çalışmıyor güncelleme bittikten sonra kullanabilirsiniz.",
+    "Anlayışınız için teşekkürler.",
+    "Dikkat güncelle butonuna basmanız şu an güncellemeyecektir 2 saat içerisinde güncelleme gelecektir."
   ]
 }
