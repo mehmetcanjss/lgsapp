@@ -1,14 +1,14 @@
-https://ogm-large-cdn.eba.gov.tr/mebi/video/02558ed40b.mp4--Mevsimlerin Oluşumu
-https://ogm-large-cdn.eba.gov.tr/mebi/video/60a2c04ab2.mp4--İklim ve Hava Hareketleri
-https://ogm-large-cdn.eba.gov.tr/mebi/video/6b9fc6ebc4.mp4--DNA ve Genetik Kod
-https://ogm-large-cdn.eba.gov.tr/mebi/video/5881446f25.mp4--Kalıtım
-https://ogm-large-cdn.eba.gov.tr/mebi/video/6671f658b0.mp4--Mutasyon ve Modifikasyon
-https://ogm-large-cdn.eba.gov.tr/mebi/video/1f68f14c4c.mp4--Adaptasyon (Çevreye Uyum)
-https://ogm-large-cdn.eba.gov.tr/mebi/video/7c5645583b.mp4--Biyoteknoloji
-https://ogm-large-cdn.eba.gov.tr/mebi/video/c884193165.mp4--Basınç
-https://ogm-large-cdn.eba.gov.tr/mebi/video/382ba873bf.mp4--Periyodik Sistem
-https://ogm-large-cdn.eba.gov.tr/mebi/video/52922660e3.mp4--Fiziksel ve Kimyasal Değişimler
-https://ogm-large-cdn.eba.gov.tr/mebi/video/48d14bd846.mp4--Kimyasal Tepkimeler
-https://ogm-large-cdn.eba.gov.tr/mebi/video/ccef56be8f.mp4--Asitler ve Bazlar
-https://ogm-large-cdn.eba.gov.tr/mebi/video/990746286c.mp4--Maddenin Isı ile Etkileşimi
-https://ogm-large-cdn.eba.gov.tr/mebi/video/01c10a5cda.mp4--Türkiye’de Kimya Endüstrisi
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=02558ed40b.mp4--Mevsimlerin Oluşumu
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=60a2c04ab2.mp4--İklim ve Hava Hareketleri
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=6b9fc6ebc4.mp4--DNA ve Genetik Kod
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=5881446f25.mp4--Kalıtım
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=6671f658b0.mp4--Mutasyon ve Modifikasyon
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=1f68f14c4c.mp4--Adaptasyon (Çevreye Uyum)
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=7c5645583b.mp4--Biyoteknoloji
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=1ee50416e8.mp4--Basınç
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=382ba873bf.mp4--Periyodik Sistem
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=52922660e3.mp4--Fiziksel ve Kimyasal Değişimler
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=48d14bd846.mp4--Kimyasal Tepkimeler
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=ccef56be8f.mp4--Asitler ve Bazlar
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=990746286c.mp4--Maddenin Isı ile Etkileşimi
+ https://r2-upload-worker.altaylog-com-tr.workers.dev/?file=01c10a5cda.mp4--Türkiye’de Kimya Endüstrisi
