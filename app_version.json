@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.9",
+  "latest_version": "1.0.10",
   "update_url": "https://play.google.com/store/apps/details?id=com.altayindustries.lgs2026hazirlik",
   "is_force_update": true,
   "changelog": [
-    "Video dersleri artık onarılabilinir.",
-    " "
+    "İndirme işlemi güncellendi. Artık daha hızlı ve eksiksiz indirme işlemi tamamlanacak.",
+    "Ayarlara geri bildirim eklendi. Artık geri bildirimler ile uygulamayı daha iyi hale getirebileceğiz."
   ]
 }
