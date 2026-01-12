@@ -24,7 +24,6 @@ https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f2f359bde9.png--Üslü İfa
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/c47397a4ea.png--Üslü İfadeler--C
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/772431074a.png--Üslü İfadeler--C
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/15d4c5905b.png--Üslü İfadeler--B
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/15d4c5905b.png--Üslü İfadeler--A
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/b0e646be60.png--Üslü İfadeler--B
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/8e2a4183c6.png--Üslü İfadeler--C
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/4c896e03e4.png--Üslü İfadeler--C
@@ -128,3 +127,4 @@ https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a6b3f95caa.png--Cebirsel İ
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/fb41acb24e.png--Cebirsel İfadeler ve Özdeşlikler--D
 
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/f84d78da0d.png--Cebirsel İfadeler ve Özdeşlikler--D
+
