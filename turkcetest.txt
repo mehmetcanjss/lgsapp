@@ -15,8 +15,6 @@ https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0d7aa7adc6.png--Sözcükte 
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/ba1fae2b4e.png--Sözcükte Anlam--A
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/0c4f13c716.png--Cümlede Anlam 1--B
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--C
-https://ogm-large-cdn.eba.gov.tr/mebi/question/image/3a2cc5a403.png--Cümlede Anlam 1--B
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/1aa58a5caa.png--Cümlede Anlam 1--C
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/2d329770dc.png--Cümlede Anlam 1--A
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/af94a4256c.png--Cümlede Anlam 1--D
@@ -133,6 +131,7 @@ https://ogm-large-cdn.eba.gov.tr/mebi/question/image/a9d59a6e11.png--Söz Sanatl
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/225f7cbf2a.png--Söz Sanatları--D
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/056cff7076.png--Söz Sanatları--A
 https://ogm-large-cdn.eba.gov.tr/mebi/question/image/79bc0b3bf2.png--Söz Sanatları--B
+
 
 
 
